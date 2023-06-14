@@ -1,5 +1,5 @@
 {
-  "name": "postcss-color-function",
+  "name": "@daisybill/postcss-color-function",
   "version": "4.1.0",
   "description": "PostCSS plugin to transform W3C CSS color function to more compatible CSS.",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "author": "Maxime Thirouin",
   "license": "MIT",
-  "repository": "https://github.com/postcss/postcss-color-function.git",
+  "repository": "https://github.com/daisybill/postcss-color-function.git",
   "files": [
     "index.js"
   ],
