@@ -1,5 +1,5 @@
 {
-  "name": "postcss-color-function",
+  "name": "@daisybill/postcss-color-function",
   "version": "4.1.0",
   "description": "PostCSS plugin to transform W3C CSS color function to more compatible CSS.",
   "keywords": [
